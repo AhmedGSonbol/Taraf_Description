@@ -1,9 +1,7 @@
 #Taraf
 
-• A smart real estate management app offering facility management, maintenance, and property marketing services. The
-app enables users to manage units, request services (cleaning, gardening), and make payments via Apple Pay or bank
-cards. Includes supervisor dashboards, AI-powered support chat, and product ordering features.
-Customer / Vendor can create orders to send goods. Successfully deployed Taraf as a production-ready mobile application on Google Play and the Apple App Store.
+• A smart real estate management app offering facility management and maintenance of the owned units. The
+app enables Customers to manage units, request services (cleaning, gardening, request new unit, request new contract and more ..), and make payments via Apple Pay or bank cards. Includes supervisor dashboards, AI-powered support chat, and product ordering features. Customer can purchase goods and create orders. Successfully deployed Taraf as a production-ready mobile application on Google Play and the Apple App Store. Successfully deployed Taraf as a production-ready mobile application on Google Play and the Apple App Store.
 
 
 
